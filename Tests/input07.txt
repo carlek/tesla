@@ -1,0 +1,9 @@
+a = b
+offset = 4 + random + 1
+b = c
+location = 1 + origin + offset
+c = d
+origin = 3 + 5
+d = e
+random = 2
+e = a

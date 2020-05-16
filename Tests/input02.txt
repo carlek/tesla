@@ -1,0 +1,5 @@
+random = 2
+origin = 3 + 5
+location = 1 + origin + offset
+offset = 4 + random + 1
+

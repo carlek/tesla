@@ -1,0 +1,11 @@
+d = 4
+offset = 4 + random + 1
+e = 3
+location = 1 + origin + offset
+g = 1
+origin = 3 + 5
+f = 2
+random = 2
+a = b + c + d + e + f + g
+b = a + c + d + e + f + g
+c = 5
